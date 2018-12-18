@@ -7,4 +7,4 @@ To submit a question, the student would click on the text box, type in their que
 
 ## Link
 
-[Heroku](https://platosplebs.herokuapp.com)
+[Heroku](https://plato-student.herokuapp.com)
